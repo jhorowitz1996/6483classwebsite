@@ -1,6 +1,6 @@
 # 6483classwebsite
 
-# Jennifer Horowitz Harvard Graduate School of Design (GSD) SCI 6483 Class Website #
+## Jennifer Horowitz Harvard Graduate School of Design (GSD) SCI 6483 Class Website 
 
 This course consists of the following topics:
 
