@@ -1,6 +1,6 @@
 # 6483classwebsite
 
-Jennifer Horowitz Harvard Graduate School of Design (GSD) Class Website
+# Jennifer Horowitz Harvard Graduate School of Design (GSD) SCI 6483 Class Website #
 
 This course consists of the following topics:
 
@@ -12,3 +12,7 @@ This course consists of the following topics:
 * Voxels: 3D Fields, Procedural Generation, Terrains, Voxel Modeling
 
 I will be posting updates on my progress through the spring semester (2022) as a student in the course.
+
+
+https://user-images.githubusercontent.com/66505479/153677440-32d17212-39f3-4b9d-9f31-ae3a4a6d44e4.mp4
+
