@@ -1,3 +1,3 @@
 # 6483classwebsite
 
-##Harvard Graduate School of Design (GSD) Class Website
+## Jennifer Horowitz arvard Graduate School of Design (GSD) Class Website
