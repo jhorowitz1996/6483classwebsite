@@ -2,6 +2,7 @@
 
 ## Jennifer Horowitz Harvard Graduate School of Design (GSD) SCI 6483 Class Website 
 
+### <https://jlh6483class.com/>
 This course consists of the following topics:
 
 * Recursion: Branching, L-Systems, Fractals and Advanced Computational Form
